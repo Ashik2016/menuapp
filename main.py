@@ -27,11 +27,10 @@ def display_menu():
     ██ ████ ██ █████   ██ ██  ██ ██    ██ 
     ██  ██  ██ ██      ██  ██ ██ ██    ██ 
     ██      ██ ███████ ██   ████  ██████  
-                                          
+                     
+		     N3pFl0yd karkiashik5@gmail.com                     
     """
     print(menu_art)
-	print("Written by: Ashik Karki")
-	print("Email: karkiashik5@gmail.com")
 
 # Helper function to run shell commands and capture output
 def run_command(command):
